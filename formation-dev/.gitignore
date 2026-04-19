@@ -1,0 +1,6 @@
+.ssh/
+.termux/
+*.log
+__pycache__/
+*.pyc
+.env
